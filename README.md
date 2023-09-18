@@ -1,2 +1,2 @@
 # Specification
-The documented dpecification for project Bae
+The documented specification for project Bae
